@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey I'm @KolbeJZ 👋
+    ⚡ I'm Interested in Web Programming and Development, and have a passion for the creative processes of code.
+    🔭 I'm currently working on personal projects to add to my resume!
+    🌱 I'm on a job hunt right now finding a fit that's right for me.
+    📫 How to reach me: https://www.linkedin.com/in/kolbe-zimmerman-177839203/ on LinkedIn
+    😄 Checkout my portfolio!! https://kolbe-zimmerman-portfolio.vercel.app/
+    
 
 <!--
 **KolbeJZ/KolbeJZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
